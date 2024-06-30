@@ -1,2 +1,4 @@
 # Terraform-Project-with-Multiple-Provider
-In this workshop we will create AWS cloud resources using Terraform and Infrastructure as Code (IaC) practices.
+
+
+In this module, we will implement Amazon VPC IP Address Manager (IPAM)  that makes it easier for you to plan, track, and monitor IP addresses for your AWS workloads.
